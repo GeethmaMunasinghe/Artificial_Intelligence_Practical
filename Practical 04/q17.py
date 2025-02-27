@@ -4,7 +4,7 @@ def custom_sum(a, b):
         return 20
     return total
 
-# Example usage
+
 num1 = int(input("Enter first number: "))
 num2 = int(input("Enter second number: "))
 print("Result:", custom_sum(num1, num2))
